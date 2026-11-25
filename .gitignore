@@ -1,0 +1,12 @@
+# Portable user configuration & local cache (do not commit personal paths/settings)
+settings.json
+manifest.json
+hosts.yml
+state.yml
+
+# OS & temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
